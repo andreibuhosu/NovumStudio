@@ -1,4 +1,8 @@
 # NovumStudio
+
+For this test I used the Spring Boot Framework along with MySQL
+
+
 Frog Backend Programming Test
 Design and implement a RESTful API (including data model and the backing implementation) for a bookstore. It should include basic CRUD for book with create, read, update, and delete operations. Read should include both fetching a single item and list of items.
 Explicit requirements:
